@@ -1,0 +1,63 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: 'Roboto', 'Helvetica Neue';
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: rgb(230, 221, 221);
+    margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+a {
+    color: #1506e4;
+}
+
+a:visited {
+    color: #09be09;
+}
+
+#main {
+    margin: 25px 18px;
+    padding: 10px;
+    border-radius: 50px;
+    background: rgb(31, 4, 4);
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div {
+    background: rgb(248, 248, 248);
+    padding: 10px;
+    margin: 10;
+    color: black;
+    border-radius: 50px;
+}
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+}
+
+ul {
+    max-width: 780px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    margin: 14px 0;
+}
